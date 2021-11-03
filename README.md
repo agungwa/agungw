@@ -10,7 +10,7 @@
 </a> 
 <br />
 <br />
-hi, i'm [Agung](https://agungw.net/),
+hi, i'm [Agung Widhiatmojo](https://agungw.net)
 <br />
 <br />
 - 💬 ask me about anything, i am happy to help, do reach, [email](mailto:agung.widhiatmojo@gmail.com) :)
