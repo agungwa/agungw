@@ -7,9 +7,15 @@
 </a>
 <a href="https://www.linkedin.com/in/agungwidhiatmojo/">
   <img align="left" alt="Agung Widhiatmojo" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a> 
-hi, i'm [Agung Widhiatmojo](https://agungw.net)
-- 💬 ask me about anything, i am happy to help, do reach, [email](mailto:agung.widhiatmojo@gmail.com) :)
+</a>
+<br />
+<br />
+hi, i'm Agung Widhiatmojo
+<br />
+<br />
+- 💬 ask me about anything, i am happy to help, :)
+<br />
+<br />
 
 **languages and tools:**  
 
