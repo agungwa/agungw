@@ -31,4 +31,4 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=agungwa&show_icons=true&theme=gotham&count_private=true" alt="agungwa" />
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=agungwa&show_icons=true&theme=gotham&count_private=true" alt="agungwa" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agungwa&exclude_repo=github-readme-stats&show_icons=true&theme=gotham&count_private=true" alt="agungwa" />
