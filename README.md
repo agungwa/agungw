@@ -33,4 +33,4 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agungwa&exclude_repo=github-readme-stats&show_icons=true&theme=gotham&count_private=true" alt="agungwa" />
 
-![Snake animation](https://github.com/preethamb97/preethamb97/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/preethamb97/preethamb97/blob/output/github-contribution-grid-snake.svg) -->
