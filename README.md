@@ -1,12 +1,12 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://www.youtube.com/user/awvanjava">
-  <img align="left" alt="awvanjava | youtube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
+  <img align="left" alt="awvanjava | youtube" width="22px" src="https://raw.githubusercontent.com/agungwa/agungwa/e915b3781c438a761274cc60d0ca9504bd2b6880/icons8-youtube.svg" />
 </a>
 <a href="https://twitter.com/awvanjava">
-  <img align="left" alt="Agung Widhiatmojo | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Agung Widhiatmojo | Twitter" width="22px" src="https://raw.githubusercontent.com/agungwa/agungwa/e915b3781c438a761274cc60d0ca9504bd2b6880/icons8-twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/agungwidhiatmojo/">
-  <img align="left" alt="Agung Widhiatmojo" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Agung Widhiatmojo" width="22px" src="https://raw.githubusercontent.com/agungwa/agungwa/e915b3781c438a761274cc60d0ca9504bd2b6880/icons8-linkedin.svg" />
 </a>
 <br />
 <br />
